@@ -1,0 +1,22 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "forkify project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkishbaugh/forkify.git"
+  },
+  "author": "Justin Kishbaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkishbaugh/forkify/issues"
+  },
+  "homepage": "https://github.com/jkishbaugh/forkify#readme"
+}
